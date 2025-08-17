@@ -2,17 +2,17 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:João Pedro Alvarenga Santos    
+Matricula:898440
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![inspeção navegador](images/parte1.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Tela no replit](images/parte2.png)
+![Tela no replit](images/parte3.png)
 
 ## Orientações sobre Linguagem MarkDown
 
